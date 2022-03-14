@@ -10,10 +10,7 @@
 
 ### 모스부호 => 문자
 
-<img class="img-responsive center-block" src="https://ichi.pro/assets/images/max/724/1*BO6hbOcv6WCU2iMWoBndZw.png">
-
-<img width="550" height="198" align="BOTTOM" border="0" src="img6.gif" alt="\includegraphics[ width=1.0\columnwidth,
-keepaspectratio]{arbol-morse.eps}">
+<img alt="Datei:Morse code tree3.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morse_code_tree3.png/800px-Morse_code_tree3.png" decoding="async" width="800" height="257" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morse_code_tree3.png/1200px-Morse_code_tree3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Morse_code_tree3.png/1600px-Morse_code_tree3.png 2x" data-file-width="2480" data-file-height="797">
 
 ### 점과 선의 수에 따른 부호의 가짓수
 
