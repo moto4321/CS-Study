@@ -80,7 +80,6 @@
 ![upc](https://user-images.githubusercontent.com/67586085/159146292-9839bf92-f8a0-4b27-85c4-fd9ecd21e99e.jpeg)
 
 
-비트  
 101    왼쪽 보호 패턴
 
 0001101  
