@@ -19,7 +19,10 @@
  
  
  
-## Henry Wadsworth Longfellow 시에서 Paul Revere는 영국군이 미국을 침략할 때 미국은 어떻게 비트를 이용했는지를 간단히 알려줍니다.
+ 
+ 
+ 
+## Henry Wadsworth Longfellow
 
 00 : 영국군이 들어오지 않는 상태
 
