@@ -28,7 +28,7 @@
 
 01 or 10 : 영국군이 육상으로 들어오고 있는 상태
 
-11 : 영국군이 해상으로 등러오고 있는 상태
+11 : 영국군이 해상으로 오고 있는 상태
 
 
 ![900px-Lantern_hung_in_the_Old_North_Church_on_the_Night_of_Paul_Revere's_Ride](https://user-images.githubusercontent.com/67586085/159145446-a9c78929-011c-41f7-a7db-868b1f483da8.jpeg)
